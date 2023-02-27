@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Marcin Solnicki | Data Analyst</title>
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1">
+<meta name="description" content="Junior Data Scientist, cos tam ..........">
+<link rel="stylesheet" href="css2">
+<link rel="stylesheet" href="styl.css">
+
+<style>html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;background-color:#252c37;box-sizing:border-box;color:#df9a40;font-family:Raleway,sans-serif;font-size:16px;min-height:100vh;overflow-x:hidden;word-spacing:1px}*,:after,:before{box-sizing:border-box;margin:0}.site{min-height:100vh}.site,.site__header{align-items:center;display:flex;flex-direction:column;justify-content:center}.site__header{padding:0 20px;text-align:center}.site__title{font-size:2rem;font-weight:300;margin-bottom:8px}@media (min-width:368px){.site__title{font-size:3rem}}@media (min-width:768px){.site__title{font-size:4rem}}.site__subtitle{font-size:1.2rem;font-weight:100;margin-top:0}@media (min-width:368px){.site__subtitle{font-size:1.6rem;font-size:2rem}}.site__content{align-items:center;display:flex;justify-content:center;padding:20px}.site__social-btn{color:#fff;display:inline-block;font-size:1.2rem;margin:0 10px;text-decoration:none;transition:all .3s ease-in-out}.site__social-btn:hover{color:#df9a40}.white-text{color:#fff}</style><style type="text/css" id="operaUserStyle"></style>
+</head>
+<body>
+
+<div id="__nuxt"><div class="site"><div class="site__header"><h1 class="site__title"><span class="white-text">Marcin Solnicki</span></h1>
+<p><span class="site__subtitle">Junior Data Scientist</div></p>
+
+<div id="media" class="site__content">
+<a rel="noopener nofollow" href="https://www.linkedin.com/in/marcin-solnicki921/" target="_blank" class="site__social-btn">Linkedin<i class="bx bxl-linkedin"></i></a><a rel="noopener nofollow" href="https://github.com/MarcinSolnicki" target="_blank" class="site__social-btn">Github<i class="bx bxl-github"></i></a><a href="mailto:marcinsolnicki@gmail.com" class="site__social-btn">Mail<i class="bx bxl-gmail"></i></a></div></div></div>
+</body></html>
